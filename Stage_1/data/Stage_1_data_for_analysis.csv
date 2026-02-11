@@ -1,0 +1,961 @@
+"id","Chimp","Partner_Name","Condition","Session","Trial_New","Chimp_Sex","Partner_Sex","Food","Subject","Partner","correct_choice","correct_choice_nr"
+1,"Asega","Rambo","Partner Evidence",2,"Filler_1","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Partner Evidence",2,"Filler_2","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Partner Evidence",2,"Filler_3","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Partner Evidence",2,"Filler_4","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Partner Evidence",2,"Trial_1","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner Evidence",2,"Trial_2","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner Evidence",2,"Trial_3","male","male","Front","Front","Front","yes",1
+1,"Asega","Rambo","Partner Evidence",2,"Trial_4","male","male","Front","Front","Front","yes",1
+1,"Asega","Rambo","Partner Evidence",2,"Trial_5","male","male","Back","Front","Back","no",0
+1,"Asega","Rambo","Partner Evidence",2,"Trial_6","male","male","Front","Front","Front","yes",1
+1,"Asega","Rambo","Partner Evidence",2,"Trial_7","male","male","Front","Front","Front","yes",1
+1,"Asega","Rambo","Partner Evidence",2,"Trial_8","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Filler_1","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Partner No Evidence",4,"Filler_2","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Partner No Evidence",4,"Filler_3","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Partner No Evidence",4,"Filler_4","male","male","Front",NA,"Back",NA,NA
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_1","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_2","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_3","male","male","Front","Front","Front","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_4","male","male","Front","Front","Front","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_5","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_6","male","male","Front","Back","Front","no",0
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_7","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Partner No Evidence",4,"Trial_8","male","male","Back","Back","Back","yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Filler_1","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Subject Evidence",1,"Filler_2","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Subject Evidence",1,"Filler_3","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Subject Evidence",1,"Filler_4","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Subject Evidence",1,"Trial_1","male","male","Front","Front",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_2","male","male","Front","Front",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_3","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_4","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_5","male","male","Front","Front",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_6","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_7","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject Evidence",1,"Trial_8","male","male","Front","Front",NA,"yes",1
+1,"Asega","Rambo","Subject No Evidence",3,"Filler_1","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Subject No Evidence",3,"Filler_2","male","male","Back",NA,"Back",NA,NA
+1,"Asega","Rambo","Subject No Evidence",3,"Filler_3","male","male","Front",NA,"Front",NA,NA
+1,"Asega","Rambo","Subject No Evidence",3,"Filler_4","male","male","Back",NA,"Front",NA,NA
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_1","male","male","Front","Front",NA,"yes",1
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_2","male","male","Front","Back",NA,"no",0
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_3","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_4","male","male","Back","Front",NA,"no",0
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_5","male","male","Front","Front",NA,"yes",1
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_6","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_7","male","male","Back","Back",NA,"yes",1
+1,"Asega","Rambo","Subject No Evidence",3,"Trial_8","male","male","Front","Back",NA,"no",0
+2,"Okech","Rambo","Partner Evidence",2,"Filler_1","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rambo","Partner Evidence",2,"Filler_2","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rambo","Partner Evidence",2,"Filler_3","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rambo","Partner Evidence",2,"Filler_4","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rambo","Partner Evidence",2,"Trial_1","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner Evidence",2,"Trial_2","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner Evidence",2,"Trial_3","male","male","Front","Back","Front","no",0
+2,"Okech","Rambo","Partner Evidence",2,"Trial_4","male","male","Front","Back","Front","no",0
+2,"Okech","Rambo","Partner Evidence",2,"Trial_5","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner Evidence",2,"Trial_6","male","male","Front","Front","Front","yes",1
+2,"Okech","Rambo","Partner Evidence",2,"Trial_7","male","male","Front","Front","Front","yes",1
+2,"Okech","Rambo","Partner Evidence",2,"Trial_8","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner No Evidence",4,"Filler_1","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rambo","Partner No Evidence",4,"Filler_2","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rambo","Partner No Evidence",4,"Filler_3","male","male","Front",NA,"Back",NA,NA
+2,"Okech","Rambo","Partner No Evidence",4,"Filler_4","male","male","Back",NA,"Front",NA,NA
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_1","male","male","Front","Front","Front","yes",1
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_2","male","male","Front","Back","Front","no",0
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_3","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_4","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_5","male","male","Front","Front","Front","yes",1
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_6","male","male","Back","Back","Back","yes",1
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_7","male","male","Front","Back","Front","no",0
+2,"Okech","Rambo","Partner No Evidence",4,"Trial_8","male","male","Front","Back","Front","no",0
+2,"Okech","Rambo","Subject Evidence",1,"Filler_1","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rambo","Subject Evidence",1,"Filler_2","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rambo","Subject Evidence",1,"Filler_3","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rambo","Subject Evidence",1,"Filler_4","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rambo","Subject Evidence",1,"Trial_1","male","male","Front","Front",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_2","male","male","Front","Front",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_3","male","male","Back","Back",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_4","male","male","Back","Back",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_5","male","male","Front","Front",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_6","male","male","Back","Back",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_7","male","male","Back","Back",NA,"yes",1
+2,"Okech","Rambo","Subject Evidence",1,"Trial_8","male","male","Front","Front",NA,"yes",1
+2,"Okech","Rutoto","Subject No Evidence",3,"Filler_1","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rutoto","Subject No Evidence",3,"Filler_2","male","male","Back",NA,"Back",NA,NA
+2,"Okech","Rutoto","Subject No Evidence",3,"Filler_3","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rutoto","Subject No Evidence",3,"Filler_4","male","male","Front",NA,"Front",NA,NA
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_1","male","male","Front","Back",NA,"no",0
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_2","male","male","Front","Back",NA,"no",0
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_3","male","male","Back","Front",NA,"no",0
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_4","male","male","Back","Back",NA,"yes",1
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_5","male","male","Front","Front",NA,"yes",1
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_6","male","male","Back","Front",NA,"no",0
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_7","male","male","Back","Front",NA,"no",0
+2,"Okech","Rutoto","Subject No Evidence",3,"Trial_8","male","male","Front","Back",NA,"no",0
+3,"Nani","Rambo","Partner Evidence",2,"Filler_1","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Partner Evidence",2,"Filler_2","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Partner Evidence",2,"Filler_3","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Partner Evidence",2,"Filler_4","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Partner Evidence",2,"Trial_1","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner Evidence",2,"Trial_2","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner Evidence",2,"Trial_3","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner Evidence",2,"Trial_4","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner Evidence",2,"Trial_5","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner Evidence",2,"Trial_6","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner Evidence",2,"Trial_7","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner Evidence",2,"Trial_8","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner No Evidence",4,"Filler_1","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Partner No Evidence",4,"Filler_2","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Partner No Evidence",4,"Filler_3","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Partner No Evidence",4,"Filler_4","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_1","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_2","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_3","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_4","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_5","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_6","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_7","female","male","Front","Back","Front","no",0
+3,"Nani","Rambo","Partner No Evidence",4,"Trial_8","female","male","Back","Back","Back","yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Filler_1","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Subject Evidence",1,"Filler_2","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Subject Evidence",1,"Filler_3","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Subject Evidence",1,"Filler_4","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Subject Evidence",1,"Trial_1","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_2","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_3","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_4","female","male","Back","Back",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_5","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_6","female","male","Back","Back",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_7","female","male","Back","Back",NA,"yes",1
+3,"Nani","Rambo","Subject Evidence",1,"Trial_8","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject No Evidence",3,"Filler_1","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Subject No Evidence",3,"Filler_2","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Subject No Evidence",3,"Filler_3","female","male","Back",NA,"Back",NA,NA
+3,"Nani","Rambo","Subject No Evidence",3,"Filler_4","female","male","Front",NA,"Front",NA,NA
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_1","female","male","Back","Front",NA,"no",0
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_2","female","male","Back","Front",NA,"no",0
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_3","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_4","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_5","female","male","Back","Front",NA,"no",0
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_6","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_7","female","male","Front","Front",NA,"yes",1
+3,"Nani","Rambo","Subject No Evidence",3,"Trial_8","female","male","Back","Front",NA,"no",0
+4,"Pasa","Rambo","Partner Evidence",2,"Filler_1","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rambo","Partner Evidence",2,"Filler_2","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rambo","Partner Evidence",2,"Filler_3","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rambo","Partner Evidence",2,"Filler_4","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_1","female","male","Back","Back","Back","yes",1
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_2","female","male","Front","Front","Front","yes",1
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_3","female","male","Front","Front","Front","yes",1
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_4","female","male","Front","Front","Front","yes",1
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_5","female","male","Back","Back","Back","yes",1
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_6","female","male","Front","Front","Front","yes",1
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_7","female","male","Front","Back","Front","no",0
+4,"Pasa","Rambo","Partner Evidence",2,"Trial_8","female","male","Back","Back","Back","yes",1
+4,"Pasa","Rambo","Partner No Evidence",4,"Filler_1","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rambo","Partner No Evidence",4,"Filler_2","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rambo","Partner No Evidence",4,"Filler_3","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rambo","Partner No Evidence",4,"Filler_4","female","male","Front",NA,"Back",NA,NA
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_1","female","male","Back","Back","Back","yes",1
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_2","female","male","Back","Front","Back","no",0
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_3","female","male","Front","Front","Front","yes",1
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_4","female","male","Back","Front","Back","no",0
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_5","female","male","Back","Back","Back","yes",1
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_6","female","male","Front","Back","Front","no",0
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_7","female","male","Back","Back","Back","yes",1
+4,"Pasa","Rambo","Partner No Evidence",4,"Trial_8","female","male","Front","Front","Front","yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Filler_1","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rambo","Subject Evidence",1,"Filler_2","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rambo","Subject Evidence",1,"Filler_3","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rambo","Subject Evidence",1,"Filler_4","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_1","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_2","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_3","female","male","Front","Front",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_4","female","male","Front","Front",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_5","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_6","female","male","Front","Front",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_7","female","male","Front","Front",NA,"yes",1
+4,"Pasa","Rambo","Subject Evidence",1,"Trial_8","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rutoto","Subject No Evidence",3,"Filler_1","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rutoto","Subject No Evidence",3,"Filler_2","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rutoto","Subject No Evidence",3,"Filler_3","female","male","Front",NA,"Front",NA,NA
+4,"Pasa","Rutoto","Subject No Evidence",3,"Filler_4","female","male","Back",NA,"Back",NA,NA
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_1","female","male","Front","Front",NA,"yes",1
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_2","female","male","Front","Back",NA,"no",0
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_3","female","male","Back","Front",NA,"no",0
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_4","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_5","female","male","Front","Back",NA,"no",0
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_6","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_7","female","male","Back","Back",NA,"yes",1
+4,"Pasa","Rutoto","Subject No Evidence",3,"Trial_8","female","male","Front","Front",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Filler_1","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Medina","Subject No Evidence",1,"Filler_2","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Medina","Subject No Evidence",1,"Filler_3","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Medina","Subject No Evidence",1,"Filler_4","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_1","male","female","Front","Front",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_2","male","female","Front","Front",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_3","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_4","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_5","male","female","Front","Back",NA,"no",0
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_6","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_7","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Medina","Subject No Evidence",1,"Trial_8","male","female","Front","Back",NA,"no",0
+5,"Bwambale","Namukisa","Partner Evidence",4,"Filler_1","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Namukisa","Partner Evidence",4,"Filler_2","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Namukisa","Partner Evidence",4,"Filler_3","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Namukisa","Partner Evidence",4,"Filler_4","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_1","male","female","Front","Front","Front","yes",1
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_2","male","female","Front","Back","Front","no",0
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_3","male","female","Back","Back","Back","yes",1
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_4","male","female","Back","Front","Back","no",0
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_5","male","female","Front","Front","Front","yes",1
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_6","male","female","Back","Back","Back","yes",1
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_7","male","female","Back","Back","Back","yes",1
+5,"Bwambale","Namukisa","Partner Evidence",4,"Trial_8","male","female","Front","Front","Front","yes",1
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Filler_1","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Filler_2","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Filler_3","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Filler_4","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_1","male","female","Front","Back","Front","no",0
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_2","male","female","Front","Back","Front","no",0
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_3","male","female","Back","Front","Back","no",0
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_4","male","female","Front","Front","Front","yes",1
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_5","male","female","Front","Back","Front","no",0
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_6","male","female","Back","Front","Back","no",0
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_7","male","female","Back","Front","Back","no",0
+5,"Bwambale","Namukisa","Partner No Evidence",2,"Trial_8","male","female","Front","Front","Front","yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Filler_1","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Namukisa","Subject Evidence",3,"Filler_2","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Namukisa","Subject Evidence",3,"Filler_3","male","female","Back",NA,"Back",NA,NA
+5,"Bwambale","Namukisa","Subject Evidence",3,"Filler_4","male","female","Front",NA,"Front",NA,NA
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_1","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_2","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_3","male","female","Front","Front",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_4","male","female","Front","Front",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_5","male","female","Back","Back",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_6","male","female","Front","Front",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_7","male","female","Front","Front",NA,"yes",1
+5,"Bwambale","Namukisa","Subject Evidence",3,"Trial_8","male","female","Back","Back",NA,"yes",1
+6,"Billi","Namukisa","Partner Evidence",4,"Filler_1","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Partner Evidence",4,"Filler_2","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Partner Evidence",4,"Filler_3","female","female","Front",NA,"Front",NA,NA
+6,"Billi","Namukisa","Partner Evidence",4,"Filler_4","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_1","female","female","Front","Front","Front","yes",1
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_2","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_3","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_4","female","female","Back","Back","Back","yes",1
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_5","female","female","Back","Back","Back","yes",1
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_6","female","female","Back","Back","Back","yes",1
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_7","female","female","Back","Back","Back","yes",1
+6,"Billi","Namukisa","Partner Evidence",4,"Trial_8","female","female","Front","Back","Front","no",0
+6,"Billi","Namukisa","Partner No Evidence",2,"Filler_1","female","female","Front",NA,"Front",NA,NA
+6,"Billi","Namukisa","Partner No Evidence",2,"Filler_2","female","female","Front",NA,"Front",NA,NA
+6,"Billi","Namukisa","Partner No Evidence",2,"Filler_3","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Partner No Evidence",2,"Filler_4","female","female","Front",NA,"Front",NA,NA
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_1","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_2","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_3","female","female","Front","Front","Front","yes",1
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_4","female","female","Front","Front","Front","yes",1
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_5","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_6","female","female","Front","Front","Front","yes",1
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_7","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Partner No Evidence",2,"Trial_8","female","female","Back","Front","Back","no",0
+6,"Billi","Namukisa","Subject Evidence",3,"Filler_1","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Subject Evidence",3,"Filler_2","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Subject Evidence",3,"Filler_3","female","female","Front",NA,"Front",NA,NA
+6,"Billi","Namukisa","Subject Evidence",3,"Filler_4","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_1","female","female","Front","Front",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_2","female","female","Front","Front",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_3","female","female","Back","Back",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_4","female","female","Back","Back",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_5","female","female","Front","Front",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_6","female","female","Back","Back",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_7","female","female","Back","Back",NA,"yes",1
+6,"Billi","Namukisa","Subject Evidence",3,"Trial_8","female","female","Front","Front",NA,"yes",1
+6,"Billi","Namukisa","Subject No Evidence",1,"Filler_1","female","female","Back",NA,"Front",NA,NA
+6,"Billi","Namukisa","Subject No Evidence",1,"Filler_2","female","female","Front",NA,"Back",NA,NA
+6,"Billi","Namukisa","Subject No Evidence",1,"Filler_3","female","female","Front",NA,"Front",NA,NA
+6,"Billi","Namukisa","Subject No Evidence",1,"Filler_4","female","female","Back",NA,"Back",NA,NA
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_1","female","female","Front","Back",NA,"no",0
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_2","female","female","Front","Front",NA,"yes",1
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_3","female","female","Back","Front",NA,"no",0
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_4","female","female","Back","Front",NA,"no",0
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_5","female","female","Front","Front",NA,"yes",1
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_6","female","female","Back","Front",NA,"no",0
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_7","female","female","Back","Front",NA,"no",0
+6,"Billi","Namukisa","Subject No Evidence",1,"Trial_8","female","female","Front","Front",NA,"yes",1
+7,"Sally","Medina","Subject No Evidence",1,"Filler_1","female","female","Front",NA,"Back",NA,NA
+7,"Sally","Medina","Subject No Evidence",1,"Filler_2","female","female","Front",NA,"Front",NA,NA
+7,"Sally","Medina","Subject No Evidence",1,"Filler_3","female","female","Back",NA,"Front",NA,NA
+7,"Sally","Medina","Subject No Evidence",1,"Filler_4","female","female","Front",NA,"Front",NA,NA
+7,"Sally","Medina","Subject No Evidence",1,"Trial_1","female","female","Back","Front",NA,"no",0
+7,"Sally","Medina","Subject No Evidence",1,"Trial_2","female","female","Back","Front",NA,"no",0
+7,"Sally","Medina","Subject No Evidence",1,"Trial_3","female","female","Front","Back",NA,"no",0
+7,"Sally","Medina","Subject No Evidence",1,"Trial_4","female","female","Front","Back",NA,"no",0
+7,"Sally","Medina","Subject No Evidence",1,"Trial_5","female","female","Back","Back",NA,"yes",1
+7,"Sally","Medina","Subject No Evidence",1,"Trial_6","female","female","Front","Front",NA,"yes",1
+7,"Sally","Medina","Subject No Evidence",1,"Trial_7","female","female","Front","Back",NA,"no",0
+7,"Sally","Medina","Subject No Evidence",1,"Trial_8","female","female","Back","Front",NA,"no",0
+7,"Sally","Namukisa","Partner Evidence",4,"Filler_1","female","female","Front",NA,"Front",NA,NA
+7,"Sally","Namukisa","Partner Evidence",4,"Filler_2","female","female","Front",NA,"Front",NA,NA
+7,"Sally","Namukisa","Partner Evidence",4,"Filler_3","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Partner Evidence",4,"Filler_4","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_1","female","female","Front","Back","Front","no",0
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_2","female","female","Back","Front","Back","no",0
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_3","female","female","Back","Front","Back","no",0
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_4","female","female","Front","Back","Front","no",0
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_5","female","female","Front","Front","Front","yes",1
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_6","female","female","Front","Front","Front","yes",1
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_7","female","female","Back","Front","Back","no",0
+7,"Sally","Namukisa","Partner Evidence",4,"Trial_8","female","female","Front","Back","Front","no",0
+7,"Sally","Namukisa","Partner No Evidence",2,"Filler_1","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Partner No Evidence",2,"Filler_2","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Partner No Evidence",2,"Filler_3","female","female","Front",NA,"Back",NA,NA
+7,"Sally","Namukisa","Partner No Evidence",2,"Filler_4","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_1","female","female","Front","Front","Front","yes",1
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_2","female","female","Front","Front","Front","yes",1
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_3","female","female","Back","Front","Back","no",0
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_4","female","female","Back","Back","Back","yes",1
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_5","female","female","Front","Back","Front","no",0
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_6","female","female","Back","Front","Back","no",0
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_7","female","female","Back","Front","Back","no",0
+7,"Sally","Namukisa","Partner No Evidence",2,"Trial_8","female","female","Front","Front","Front","yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Filler_1","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Subject Evidence",3,"Filler_2","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Subject Evidence",3,"Filler_3","female","female","Front",NA,"Front",NA,NA
+7,"Sally","Namukisa","Subject Evidence",3,"Filler_4","female","female","Back",NA,"Back",NA,NA
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_1","female","female","Front","Back",NA,"no",0
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_2","female","female","Front","Front",NA,"yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_3","female","female","Back","Back",NA,"yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_4","female","female","Back","Back",NA,"yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_5","female","female","Front","Front",NA,"yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_6","female","female","Back","Back",NA,"yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_7","female","female","Back","Back",NA,"yes",1
+7,"Sally","Namukisa","Subject Evidence",3,"Trial_8","female","female","Front","Front",NA,"yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Filler_1","female","male","Back",NA,"Back",NA,NA
+8,"Nakuu","Rambo","Partner Evidence",4,"Filler_2","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rambo","Partner Evidence",4,"Filler_3","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rambo","Partner Evidence",4,"Filler_4","female","male","Back",NA,"Back",NA,NA
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_1","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_2","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_3","female","male","Back","Back","Back","yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_4","female","male","Front","Back","Front","no",0
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_5","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_6","female","male","Back","Back","Back","yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_7","female","male","Back","Back","Back","yes",1
+8,"Nakuu","Rambo","Partner Evidence",4,"Trial_8","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner No Evidence",3,"Filler_1","female","male","Front",NA,"Back",NA,NA
+8,"Nakuu","Rambo","Partner No Evidence",3,"Filler_2","female","male","Back",NA,"Back",NA,NA
+8,"Nakuu","Rambo","Partner No Evidence",3,"Filler_3","female","male","Back",NA,"Back",NA,NA
+8,"Nakuu","Rambo","Partner No Evidence",3,"Filler_4","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_1","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_2","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_3","female","male","Back","Front","Back","no",0
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_4","female","male","Back","Back","Back","yes",1
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_5","female","male","Front","Front","Front","yes",1
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_6","female","male","Back","Front","Back","no",0
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_7","female","male","Front","Back","Front","no",0
+8,"Nakuu","Rambo","Partner No Evidence",3,"Trial_8","female","male","Back","Back","Back","yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Filler_1","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rambo","Subject Evidence",1,"Filler_2","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rambo","Subject Evidence",1,"Filler_3","female","male","Back",NA,"Back",NA,NA
+8,"Nakuu","Rambo","Subject Evidence",1,"Filler_4","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_1","female","male","Back","Back",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_2","female","male","Back","Back",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_3","female","male","Front","Front",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_4","female","male","Back","Back",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_5","female","male","Back","Back",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_6","female","male","Front","Front",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_7","female","male","Front","Front",NA,"yes",1
+8,"Nakuu","Rambo","Subject Evidence",1,"Trial_8","female","male","Back","Back",NA,"yes",1
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Filler_1","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Filler_2","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Filler_3","female","male","Back",NA,"Back",NA,NA
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Filler_4","female","male","Front",NA,"Front",NA,NA
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_1","female","male","Back","Front",NA,"no",0
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_2","female","male","Back","Front",NA,"no",0
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_3","female","male","Front","Front",NA,"yes",1
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_4","female","male","Front","Back",NA,"no",0
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_5","female","male","Back","Front",NA,"no",0
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_6","female","male","Front","Front",NA,"yes",1
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_7","female","male","Front","Front",NA,"yes",1
+8,"Nakuu","Rutoto","Subject No Evidence",2,"Trial_8","female","male","Back","Back",NA,"yes",1
+9,"Baluku","Rambo","Partner Evidence",3,"Filler_1","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Partner Evidence",3,"Filler_2","male","male","Back",NA,"Back",NA,NA
+9,"Baluku","Rambo","Partner Evidence",3,"Filler_3","male","male","Back",NA,"Back",NA,NA
+9,"Baluku","Rambo","Partner Evidence",3,"Filler_4","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_1","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_2","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_3","male","male","Front","Front","Front","yes",1
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_4","male","male","Back","Front","Back","no",0
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_5","male","male","Back","Front","Back","no",0
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_6","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_7","male","male","Front","Back","Front","no",0
+9,"Baluku","Rambo","Partner Evidence",3,"Trial_8","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner No Evidence",4,"Filler_1","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Partner No Evidence",4,"Filler_2","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Partner No Evidence",4,"Filler_3","male","male","Back",NA,"Back",NA,NA
+9,"Baluku","Rambo","Partner No Evidence",4,"Filler_4","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_1","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_2","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_3","male","male","Front","Back","Front","no",0
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_4","male","male","Front","Back","Front","no",0
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_5","male","male","Front","Back","Front","no",0
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_6","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_7","male","male","Back","Back","Back","yes",1
+9,"Baluku","Rambo","Partner No Evidence",4,"Trial_8","male","male","Front","Back","Front","no",0
+9,"Baluku","Rambo","Subject Evidence",1,"Filler_1","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Subject Evidence",1,"Filler_2","male","male","Back",NA,"Back",NA,NA
+9,"Baluku","Rambo","Subject Evidence",1,"Filler_3","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rambo","Subject Evidence",1,"Filler_4","male","male","Back",NA,"Back",NA,NA
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_1","male","male","Front","Front",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_2","male","male","Front","Front",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_3","male","male","Back","Back",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_4","male","male","Back","Back",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_5","male","male","Front","Front",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_6","male","male","Back","Back",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_7","male","male","Back","Back",NA,"yes",1
+9,"Baluku","Rambo","Subject Evidence",1,"Trial_8","male","male","Front","Front",NA,"yes",1
+9,"Baluku","Rutoto","Subject No Evidence",2,"Filler_1","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rutoto","Subject No Evidence",2,"Filler_2","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rutoto","Subject No Evidence",2,"Filler_3","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rutoto","Subject No Evidence",2,"Filler_4","male","male","Front",NA,"Front",NA,NA
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_1","male","male","Back","Back",NA,"yes",1
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_2","male","male","Back","Front",NA,"no",0
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_3","male","male","Front","Front",NA,"yes",1
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_4","male","male","Front","Front",NA,"yes",1
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_5","male","male","Back","Back",NA,"yes",1
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_6","male","male","Front","Back",NA,"no",0
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_7","male","male","Front","Back",NA,"no",0
+9,"Baluku","Rutoto","Subject No Evidence",2,"Trial_8","male","male","Back","Back",NA,"yes",1
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Filler_1","female","male","Back",NA,"Back",NA,NA
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Filler_2","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Filler_3","female","male","Front",NA,"Back",NA,NA
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Filler_4","female","male","Back",NA,"Back",NA,NA
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_1","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_2","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_3","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_4","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_5","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_6","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_7","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner Evidence",3,"Trial_8","female","male","Front","Front","Front","yes",1
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Filler_1","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Filler_2","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Filler_3","female","male","Back",NA,"Back",NA,NA
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Filler_4","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_1","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_2","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_3","female","male","Back","Front","Back","no",0
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_4","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_5","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_6","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_7","female","male","Back","Back","Back","yes",1
+10,"Nkuumwa","Rambo","Partner No Evidence",4,"Trial_8","female","male","Front","Back","Front","no",0
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Filler_1","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Filler_2","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Filler_3","female","male","Back",NA,"Back",NA,NA
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Filler_4","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_1","female","male","Back","Back",NA,"yes",1
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_2","female","male","Back","Front",NA,"no",0
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_3","female","male","Front","Front",NA,"yes",1
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_4","female","male","Front","Front",NA,"yes",1
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_5","female","male","Back","Back",NA,"yes",1
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_6","female","male","Front","Front",NA,"yes",1
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_7","female","male","Front","Front",NA,"yes",1
+10,"Nkuumwa","Rambo","Subject Evidence",1,"Trial_8","female","male","Back","Back",NA,"yes",1
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Filler_1","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Filler_2","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Filler_3","female","male","Back",NA,"Back",NA,NA
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Filler_4","female","male","Front",NA,"Front",NA,NA
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_1","female","male","Back","Front",NA,"no",0
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_2","female","male","Back","Back",NA,"yes",1
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_3","female","male","Front","Back",NA,"no",0
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_4","female","male","Front","Back",NA,"no",0
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_5","female","male","Back","Back",NA,"yes",1
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_6","female","male","Front","Front",NA,"yes",1
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_7","female","male","Front","Back",NA,"no",0
+10,"Nkuumwa","Rutoto","Subject No Evidence",2,"Trial_8","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Partner Evidence",2,"Filler_1","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Partner Evidence",2,"Filler_2","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Partner Evidence",2,"Filler_3","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Partner Evidence",2,"Filler_4","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_1","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_2","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_3","female","male","Front","Back","Front","no",0
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_4","female","male","Front","Back","Front","no",0
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_5","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_6","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_7","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner Evidence",2,"Trial_8","female","male","Front","Front","Front","yes",1
+11,"Yoyo","Rambo","Partner No Evidence",4,"Filler_1","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Partner No Evidence",4,"Filler_2","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Partner No Evidence",4,"Filler_3","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Partner No Evidence",4,"Filler_4","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_1","female","male","Front","Back","Front","no",0
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_2","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_3","female","male","Front","Back","Front","no",0
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_4","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_5","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_6","female","male","Front","Back","Front","no",0
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_7","female","male","Back","Back","Back","yes",1
+11,"Yoyo","Rambo","Partner No Evidence",4,"Trial_8","female","male","Front","Back","Front","no",0
+11,"Yoyo","Rambo","Subject Evidence",1,"Filler_1","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Subject Evidence",1,"Filler_2","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Subject Evidence",1,"Filler_3","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Subject Evidence",1,"Filler_4","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_1","female","male","Front","Front",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_2","female","male","Front","Front",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_3","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_4","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_5","female","male","Front","Front",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_6","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_7","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Subject Evidence",1,"Trial_8","female","male","Front","Front",NA,"yes",1
+11,"Yoyo","Rambo","Subject No Evidence",3,"Filler_1","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Subject No Evidence",3,"Filler_2","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Subject No Evidence",3,"Filler_3","female","male","Front",NA,"Front",NA,NA
+11,"Yoyo","Rambo","Subject No Evidence",3,"Filler_4","female","male","Back",NA,"Back",NA,NA
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_1","female","male","Front","Front",NA,"yes",1
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_2","female","male","Front","Back",NA,"no",0
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_3","female","male","Back","Front",NA,"no",0
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_4","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_5","female","male","Front","Back",NA,"no",0
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_6","female","male","Back","Front",NA,"no",0
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_7","female","male","Back","Back",NA,"yes",1
+11,"Yoyo","Rambo","Subject No Evidence",3,"Trial_8","female","male","Front","Back",NA,"no",0
+12,"Becky","Namukisa","Partner Evidence",4,"Filler_1","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner Evidence",4,"Filler_2","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner Evidence",4,"Filler_3","female","female","Front",NA,"Front",NA,NA
+12,"Becky","Namukisa","Partner Evidence",4,"Filler_4","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_1","female","female","Front","Back","Front","no",0
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_2","female","female","Front","Front","Front","yes",1
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_3","female","female","Back","Back","Back","yes",1
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_4","female","female","Back","Back","Back","yes",1
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_5","female","female","Front","Back","Front","no",0
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_6","female","female","Back","Back","Back","yes",1
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_7","female","female","Back","Back","Back","yes",1
+12,"Becky","Namukisa","Partner Evidence",4,"Trial_8","female","female","Front","Back","Front","no",0
+12,"Becky","Namukisa","Partner No Evidence",2,"Filler_1","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner No Evidence",2,"Filler_2","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner No Evidence",2,"Filler_3","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner No Evidence",2,"Filler_4","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_1","female","female","Front","Back","Front","no",0
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_2","female","female","Front","Front","Front","yes",1
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_3","female","female","Back","Front","Back","no",0
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_4","female","female","Back","Front","Back","no",0
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_5","female","female","Front","Front","Front","yes",1
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_6","female","female","Back","Front","Back","no",0
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_7","female","female","Back","Front","Back","no",0
+12,"Becky","Namukisa","Partner No Evidence",2,"Trial_8","female","female","Front","Front","Front","yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Filler_1","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Subject Evidence",3,"Filler_2","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Subject Evidence",3,"Filler_3","female","female","Front",NA,"Front",NA,NA
+12,"Becky","Namukisa","Subject Evidence",3,"Filler_4","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_1","female","female","Front","Front",NA,"yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_2","female","female","Back","Back",NA,"yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_3","female","female","Back","Back",NA,"yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_4","female","female","Back","Back",NA,"yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_5","female","female","Front","Back",NA,"no",0
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_6","female","female","Back","Back",NA,"yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_7","female","female","Back","Back",NA,"yes",1
+12,"Becky","Namukisa","Subject Evidence",3,"Trial_8","female","female","Front","Back",NA,"no",0
+12,"Becky","Namukisa","Subject No Evidence",1,"Filler_1","female","female","Front",NA,"Front",NA,NA
+12,"Becky","Namukisa","Subject No Evidence",1,"Filler_2","female","female","Front",NA,"Front",NA,NA
+12,"Becky","Namukisa","Subject No Evidence",1,"Filler_3","female","female","Back",NA,"Back",NA,NA
+12,"Becky","Namukisa","Subject No Evidence",1,"Filler_4","female","female","Front",NA,"Front",NA,NA
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_1","female","female","Back","Front",NA,"no",0
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_2","female","female","Back","Front",NA,"no",0
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_3","female","female","Front","Front",NA,"yes",1
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_4","female","female","Front","Front",NA,"yes",1
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_5","female","female","Back","Front",NA,"no",0
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_6","female","female","Front","Front",NA,"yes",1
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_7","female","female","Front","Front",NA,"yes",1
+12,"Becky","Namukisa","Subject No Evidence",1,"Trial_8","female","female","Back","Front",NA,"no",0
+13,"Umutama","Namukisa","Partner Evidence",3,"Filler_1","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Partner Evidence",3,"Filler_2","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Partner Evidence",3,"Filler_3","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Partner Evidence",3,"Filler_4","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_1","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_2","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_3","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_4","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_5","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_6","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_7","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner Evidence",3,"Trial_8","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner No Evidence",1,"Filler_1","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Partner No Evidence",1,"Filler_2","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Partner No Evidence",1,"Filler_3","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Partner No Evidence",1,"Filler_4","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_1","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_2","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_3","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_4","male","female","Front","Front","Front","yes",1
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_5","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_6","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_7","male","female","Front","Back","Front","no",0
+13,"Umutama","Namukisa","Partner No Evidence",1,"Trial_8","male","female","Back","Back","Back","yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Filler_1","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Subject Evidence",2,"Filler_2","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Subject Evidence",2,"Filler_3","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Subject Evidence",2,"Filler_4","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_1","male","female","Front","Back",NA,"no",0
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_2","male","female","Front","Front",NA,"yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_3","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_4","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_5","male","female","Front","Front",NA,"yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_6","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_7","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject Evidence",2,"Trial_8","male","female","Front","Front",NA,"yes",1
+13,"Umutama","Namukisa","Subject No Evidence",4,"Filler_1","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Subject No Evidence",4,"Filler_2","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Subject No Evidence",4,"Filler_3","male","female","Back",NA,"Back",NA,NA
+13,"Umutama","Namukisa","Subject No Evidence",4,"Filler_4","male","female","Front",NA,"Front",NA,NA
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_1","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_2","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_3","male","female","Front","Back",NA,"no",0
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_4","male","female","Front","Back",NA,"no",0
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_5","male","female","Back","Back",NA,"yes",1
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_6","male","female","Front","Back",NA,"no",0
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_7","male","female","Front","Back",NA,"no",0
+13,"Umutama","Namukisa","Subject No Evidence",4,"Trial_8","male","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Filler_1","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Filler_2","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Filler_3","female","female","Front",NA,"Front",NA,NA
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Filler_4","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_1","female","female","Front","Front","Front","yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_2","female","female","Back","Back","Back","yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_3","female","female","Back","Back","Back","yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_4","female","female","Back","Front","Back","no",0
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_5","female","female","Front","Front","Front","yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_6","female","female","Back","Back","Back","yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_7","female","female","Back","Back","Back","yes",1
+14,"Kidogo","Namukisa","Partner Evidence",NA,"Trial_8","female","female","Front","Back","Front","no",0
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Filler_1","female","female","Front",NA,"Front",NA,NA
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Filler_2","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Filler_3","female","female","Front",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Filler_4","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_1","female","female","Front","Back","Front","no",0
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_2","female","female","Front","Back","Front","no",0
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_3","female","female","Back","Front","Back","no",0
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_4","female","female","Back","Back","Back","yes",1
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_5","female","female","Front","Back","Front","no",0
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_6","female","female","Back","Back","Back","yes",1
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_7","female","female","Back","Front","Back","no",0
+14,"Kidogo","Namukisa","Partner No Evidence",1,"Trial_8","female","female","Front","Back","Front","no",0
+14,"Kidogo","Namukisa","Subject Evidence",2,"Filler_1","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Subject Evidence",2,"Filler_2","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Subject Evidence",2,"Filler_3","female","female","Front",NA,"Front",NA,NA
+14,"Kidogo","Namukisa","Subject Evidence",2,"Filler_4","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_1","female","female","Front","Front",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_2","female","female","Front","Front",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_3","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_4","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_5","female","female","Front","Front",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_6","female","female","Front","Front",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_7","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject Evidence",2,"Trial_8","female","female","Front","Front",NA,"yes",1
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Filler_1","female","female","Front",NA,"Front",NA,NA
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Filler_2","female","female","Front",NA,"Front",NA,NA
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Filler_3","female","female","Back",NA,"Back",NA,NA
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Filler_4","female","female","Front",NA,"Front",NA,NA
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_1","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_2","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_3","female","female","Front","Back",NA,"no",0
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_4","female","female","Front","Back",NA,"no",0
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_5","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_6","female","female","Front","Back",NA,"no",0
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_7","female","female","Back","Back",NA,"yes",1
+14,"Kidogo","Namukisa","Subject No Evidence",4,"Trial_8","female","female","Front","Back",NA,"no",0
+15,"Kisembo","Namukisa","Partner Evidence",2,"Filler_1","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Partner Evidence",2,"Filler_2","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Partner Evidence",2,"Filler_3","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Partner Evidence",2,"Filler_4","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_1","male","female","Front","Back","Front","no",0
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_2","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_3","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_4","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_5","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_6","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_7","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner Evidence",2,"Trial_8","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Filler_1","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Filler_2","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Filler_3","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Filler_4","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_1","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_2","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_3","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_4","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_5","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_6","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_7","male","female","Back","Front","Back","no",0
+15,"Kisembo","Namukisa","Partner No Evidence",4,"Trial_8","male","female","Front","Front","Front","yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Filler_1","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Subject Evidence",1,"Filler_2","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Subject Evidence",1,"Filler_3","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Subject Evidence",1,"Filler_4","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_1","male","female","Back","Back",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_2","male","female","Back","Back",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_3","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_4","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_5","male","female","Back","Back",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_6","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_7","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject Evidence",1,"Trial_8","male","female","Back","Back",NA,"yes",1
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Filler_1","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Filler_2","male","female","Front",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Filler_3","male","female","Back",NA,"Back",NA,NA
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Filler_4","male","female","Front",NA,"Front",NA,NA
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_1","male","female","Back","Front",NA,"no",0
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_2","male","female","Back","Back",NA,"yes",1
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_3","male","female","Front","Back",NA,"no",0
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_4","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_5","male","female","Back","Back",NA,"yes",1
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_6","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_7","male","female","Front","Front",NA,"yes",1
+15,"Kisembo","Namukisa","Subject No Evidence",3,"Trial_8","male","female","Back","Front",NA,"no",0
+16,"Ikuru","Namukisa","Partner Evidence",2,"Filler_1","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Partner Evidence",2,"Filler_2","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Partner Evidence",2,"Filler_3","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Partner Evidence",2,"Filler_4","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_1","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_2","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_3","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_4","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_5","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_6","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_7","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner Evidence",2,"Trial_8","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Filler_1","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Filler_2","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Filler_3","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Filler_4","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_1","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_2","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_3","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_4","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_5","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_6","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_7","female","female","Back","Back","Back","yes",1
+16,"Ikuru","Namukisa","Partner No Evidence",4,"Trial_8","female","female","Front","Back","Front","no",0
+16,"Ikuru","Namukisa","Subject Evidence",1,"Filler_1","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Subject Evidence",1,"Filler_2","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Subject Evidence",1,"Filler_3","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Subject Evidence",1,"Filler_4","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_1","female","female","Back","Back",NA,"yes",1
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_2","female","female","Back","Back",NA,"yes",1
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_3","female","female","Front","Front",NA,"yes",1
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_4","female","female","Front","Back",NA,"no",0
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_5","female","female","Back","Back",NA,"yes",1
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_6","female","female","Front","Front",NA,"yes",1
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_7","female","female","Front","Front",NA,"yes",1
+16,"Ikuru","Namukisa","Subject Evidence",1,"Trial_8","female","female","Back","Back",NA,"yes",1
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Filler_1","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Filler_2","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Filler_3","female","female","Back",NA,"Back",NA,NA
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Filler_4","female","female","Front",NA,"Front",NA,NA
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_1","female","female","Back","Back",NA,"yes",1
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_2","female","female","Back","Back",NA,"yes",1
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_3","female","female","Front","Back",NA,"no",0
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_4","female","female","Front","Back",NA,"no",0
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_5","female","female","Back","Front",NA,"no",0
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_6","female","female","Front","Back",NA,"no",0
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_7","female","female","Front","Back",NA,"no",0
+16,"Ikuru","Namukisa","Subject No Evidence",3,"Trial_8","female","female","Back","Back",NA,"yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Filler_1","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Partner Evidence",2,"Filler_2","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Partner Evidence",2,"Filler_3","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rambo","Partner Evidence",2,"Filler_4","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Partner Evidence",2,"Trial_1","male","male","Front","Front","Front","yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Trial_2","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Trial_3","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Trial_4","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Trial_5","male","male","Front","Back","Front","no",0
+17,"Indie","Rambo","Partner Evidence",2,"Trial_6","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Trial_7","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner Evidence",2,"Trial_8","male","male","Front","Back","Front","no",0
+17,"Indie","Rambo","Partner No Evidence",4,"Filler_1","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Partner No Evidence",4,"Filler_2","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Partner No Evidence",4,"Filler_3","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rambo","Partner No Evidence",4,"Filler_4","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_1","male","male","Front","Back","Front","no",0
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_2","male","male","Front","Back","Front","no",0
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_3","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_4","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_5","male","male","Front","Back","Front","no",0
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_6","male","male","Back","Front","Back","no",0
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_7","male","male","Back","Back","Back","yes",1
+17,"Indie","Rambo","Partner No Evidence",4,"Trial_8","male","male","Front","Back","Front","no",0
+17,"Indie","Rambo","Subject No Evidence",3,"Filler_1","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rambo","Subject No Evidence",3,"Filler_2","male","male","Front",NA,"Back",NA,NA
+17,"Indie","Rambo","Subject No Evidence",3,"Filler_3","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rambo","Subject No Evidence",3,"Filler_4","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_1","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_2","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_3","male","male","Front","Back",NA,"no",0
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_4","male","male","Front","Front",NA,"yes",1
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_5","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_6","male","male","Front","Front",NA,"yes",1
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_7","male","male","Front","Back",NA,"no",0
+17,"Indie","Rambo","Subject No Evidence",3,"Trial_8","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Filler_1","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rutoto","Subject Evidence",1,"Filler_2","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rutoto","Subject Evidence",1,"Filler_3","male","male","Back",NA,"Back",NA,NA
+17,"Indie","Rutoto","Subject Evidence",1,"Filler_4","male","male","Front",NA,"Front",NA,NA
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_1","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_2","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_3","male","male","Front","Front",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_4","male","male","Front","Front",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_5","male","male","Back","Back",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_6","male","male","Front","Front",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_7","male","male","Front","Front",NA,"yes",1
+17,"Indie","Rutoto","Subject Evidence",1,"Trial_8","male","male","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Filler_1","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner Evidence",3,"Filler_2","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner Evidence",3,"Filler_3","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner Evidence",3,"Filler_4","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_1","female","female","Front","Front","Front","yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_2","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_3","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_4","female","female","Back","Front","Back","no",0
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_5","female","female","Front","Front","Front","yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_6","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_7","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner Evidence",3,"Trial_8","female","female","Front","Front","Front","yes",1
+18,"Medina","Namukisa","Partner No Evidence",4,"Filler_1","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner No Evidence",4,"Filler_2","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner No Evidence",4,"Filler_3","female","female","Front",NA,"Front",NA,NA
+18,"Medina","Namukisa","Partner No Evidence",4,"Filler_4","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_1","female","female","Front","Front","Front","yes",1
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_2","female","female","Front","Front","Front","yes",1
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_3","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_4","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_5","female","female","Front","Back","Front","no",0
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_6","female","female","Back","Back","Back","yes",1
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_7","female","female","Back","Front","Back","no",0
+18,"Medina","Namukisa","Partner No Evidence",4,"Trial_8","female","female","Front","Back","Front","no",0
+18,"Medina","Namukisa","Subject Evidence",1,"Filler_1","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Subject Evidence",1,"Filler_2","female","female","Front",NA,"Front",NA,NA
+18,"Medina","Namukisa","Subject Evidence",1,"Filler_3","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Subject Evidence",1,"Filler_4","female","female","Front",NA,"Front",NA,NA
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_1","female","female","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_2","female","female","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_3","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_4","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_5","female","female","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_6","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_7","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject Evidence",1,"Trial_8","female","female","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Filler_1","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Subject No Evidence",2,"Filler_2","female","female","Front",NA,"Front",NA,NA
+18,"Medina","Namukisa","Subject No Evidence",2,"Filler_3","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Subject No Evidence",2,"Filler_4","female","female","Back",NA,"Back",NA,NA
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_1","female","female","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_2","female","female","Back","Back",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_3","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_4","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_5","female","female","Back","Front",NA,"no",0
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_6","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_7","female","female","Front","Front",NA,"yes",1
+18,"Medina","Namukisa","Subject No Evidence",2,"Trial_8","female","female","Back","Back",NA,"yes",1
+19,"Kalema","Rambo","Partner Evidence",2,"Filler_1","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Partner Evidence",2,"Filler_2","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Partner Evidence",2,"Filler_3","male","male","Front",NA,"Front",NA,NA
+19,"Kalema","Rambo","Partner Evidence",2,"Filler_4","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_1","male","male","Front","Back","Front","no",0
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_2","male","male","Back","Front","Back","no",0
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_3","male","male","Back","Back","Back","yes",1
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_4","male","male","Back","Back","Back","yes",1
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_5","male","male","Front","Back","Front","no",0
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_6","male","male","Back","Back","Back","yes",1
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_7","male","male","Front","Front","Front","yes",1
+19,"Kalema","Rambo","Partner Evidence",2,"Trial_8","male","male","Front","Back","Back","no",0
+19,"Kalema","Rambo","Partner No Evidence",4,"Filler_1","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Partner No Evidence",4,"Filler_2","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Partner No Evidence",4,"Filler_3","male","male","Front",NA,"Front",NA,NA
+19,"Kalema","Rambo","Partner No Evidence",4,"Filler_4","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_1","male","male","Front","Back","Front","no",0
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_2","male","male","Front","Front","Front","yes",1
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_3","male","male","Back","Front","Back","no",0
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_4","male","male","Back","Back","Back","yes",1
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_5","male","male","Front","Back","Front","no",0
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_6","male","male","Back","Back","Back","yes",1
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_7","male","male","Back","Back","Back","yes",1
+19,"Kalema","Rambo","Partner No Evidence",4,"Trial_8","male","male","Front","Front","Front","yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Filler_1","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Subject Evidence",1,"Filler_2","male","male","Front",NA,"Front",NA,NA
+19,"Kalema","Rambo","Subject Evidence",1,"Filler_3","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Subject Evidence",1,"Filler_4","male","male","Front",NA,"Front",NA,NA
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_1","male","male","Back","Back",NA,"yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_2","male","male","Back","Back",NA,"yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_3","male","male","Front","Front",NA,"yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_4","male","male","Front","Front",NA,"yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_5","male","male","Back","Front",NA,"no",0
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_6","male","male","Front","Front",NA,"yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_7","male","male","Front","Front",NA,"yes",1
+19,"Kalema","Rambo","Subject Evidence",1,"Trial_8","male","male","Back","Back",NA,"yes",1
+19,"Kalema","Rambo","Subject No Evidence",3,"Filler_1","male","male","Front",NA,"Front",NA,NA
+19,"Kalema","Rambo","Subject No Evidence",3,"Filler_2","male","male","Front",NA,"Front",NA,NA
+19,"Kalema","Rambo","Subject No Evidence",3,"Filler_3","male","male","Back",NA,"Back",NA,NA
+19,"Kalema","Rambo","Subject No Evidence",3,"Filler_4","male","male","Front",NA,"Back",NA,NA
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_1","male","male","Back","Front",NA,"no",0
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_2","male","male","Back","Back",NA,"yes",1
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_3","male","male","Front","Back",NA,"no",0
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_4","male","male","Front","Back",NA,"no",0
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_5","male","male","Back","Back",NA,"yes",1
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_6","male","male","Front","Back",NA,"no",0
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_7","male","male","Front","Front",NA,"yes",1
+19,"Kalema","Rambo","Subject No Evidence",3,"Trial_8","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Filler_1","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Partner Evidence",4,"Filler_2","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Partner Evidence",4,"Filler_3","male","male","Front",NA,"Front",NA,NA
+20,"Umugenzi","Rambo","Partner Evidence",4,"Filler_4","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_1","male","male","Front","Front","Front","yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_2","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_3","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_4","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_5","male","male","Front","Back","Front","no",0
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_6","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_7","male","male","Front","Front","Front","yes",1
+20,"Umugenzi","Rambo","Partner Evidence",4,"Trial_8","male","male","Front","Back","Front","no",0
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Filler_1","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Filler_2","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Filler_3","male","male","Front",NA,"Front",NA,NA
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Filler_4","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_1","male","male","Front","Front","Front","yes",1
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_2","male","male","Front","Front","Front","yes",1
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_3","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_4","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_5","male","male","Front","Front","Front","yes",1
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_6","male","male","Back","Front","Back","no",0
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_7","male","male","Back","Back","Back","yes",1
+20,"Umugenzi","Rambo","Partner No Evidence",3,"Trial_8","male","male","Front","Back","Front","no",0
+20,"Umugenzi","Rambo","Subject Evidence",2,"Filler_1","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Subject Evidence",2,"Filler_2","male","male","Front",NA,"Front",NA,NA
+20,"Umugenzi","Rambo","Subject Evidence",2,"Filler_3","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Subject Evidence",2,"Filler_4","male","male","Front",NA,"Front",NA,NA
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_1","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_2","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_3","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_4","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_5","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_6","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_7","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject Evidence",2,"Trial_8","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Filler_1","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Filler_2","male","male","Front",NA,"Front",NA,NA
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Filler_3","male","male","Back",NA,"Back",NA,NA
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Filler_4","male","male","Front",NA,"Front",NA,NA
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_1","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_2","male","male","Back","Back",NA,"yes",1
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_3","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_4","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_5","male","male","Back","Front",NA,"no",0
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_6","male","male","Front","Back",NA,"no",0
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_7","male","male","Front","Front",NA,"yes",1
+20,"Umugenzi","Rambo","Subject No Evidence",1,"Trial_8","male","male","Back","Back",NA,"yes",1
